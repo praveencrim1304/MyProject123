@@ -6,6 +6,9 @@ public class Employee {
 	private void empId() {
 		System.out.println("0079");
 	}
+	private void empBloodGroup() {
+		System.out.println("B+ve");
+	}
 	private void empName() {
 		System.out.println("Pream");
 	}
